@@ -29,7 +29,7 @@ img_es6.onmouseout =function(){
 }
 
 // ------------------------------------------
-let img_linux = document.getElementById('img_linux');
+let img_linux = document.getElementById('img-linux');
 
 img_linux.onmouseover = function(){
     overIMG(this.id)
