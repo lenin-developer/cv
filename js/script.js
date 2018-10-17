@@ -29,12 +29,12 @@ img_es6.onmouseout =function(){
 }
 
 // ------------------------------------------
-let img_php = document.getElementById('img-php');
+let img_linux = document.getElementById('img-php');
 
-img_php.onmouseover = function(){
+img_linux.onmouseover = function(){
     overIMG(this.id)
 }
-img_php.onmouseout = function(){
+img_linux.onmouseout = function(){
     outIMG(this.id)
 }
 
