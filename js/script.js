@@ -38,6 +38,15 @@ img_linux.onmouseout = function(){
     outIMG(this.id)
 }
 
+let img_java = document.getElementById('img-java');
+
+img_java.onmouseover = function(){
+    overIMG(this.id)
+}
+img_java.onmouseout = function(){
+    outIMG(this.id)
+}
+
 
 
 function overIMG (id){
