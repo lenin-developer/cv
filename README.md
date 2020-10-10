@@ -1,2 +1,2 @@
 # cv
-curriculum vitae porgramacion
+curriculum vitae programacion
